@@ -1,0 +1,60 @@
+site_name: MrCardist's Documentation
+site_url: https://mrcardist.github.io/dox/
+repo_url: https://github.com/MrCardist/dox
+repo_name: MrCardist/dox
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+
+nav:
+  - Home: index.md
+  - Cardistry:
+    - Overview: cardistry/index.md
+  - Rocketry:
+    - Overview: rocketry/index.md
+  - Empire of the Sun:
+    - Overview: empire-of-the-sun/index.md
+  - Video Games:
+    - Overview: video-games/index.md
+  - Reading:
+    - Overview: reading/index.md
