@@ -7,6 +7,9 @@ This site is a collection of my knowledge and experiences across various interes
 ### [Cardistry](cardistry/index.md)
 The art of card flourishing and manipulation.
 
+### [Lacrosse](lacrosse/index.md)
+Information, resources, and notes about lacrosse.
+
 ### [Rocketry](rocketry/index.md)
 Model rocketry, design, and launch experiences.
 

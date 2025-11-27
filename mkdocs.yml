@@ -50,6 +50,8 @@ nav:
   - Home: index.md
   - Cardistry:
     - Overview: cardistry/index.md
+  - Lacrosse:
+    - Overview: lacrosse/index.md
   - Rocketry:
     - Overview: rocketry/index.md
   - Empire of the Sun:
