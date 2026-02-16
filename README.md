@@ -1,6 +1,6 @@
 # dox
 
-📚 **[View Documentation](http://127.0.0.1:8000/dox/)**
+📚 **[View Documentation](https://mrcardist.github.io/dox/)**
 
 A comprehensive documentation site built with MkDocs Material, covering:
 - Cardistry
