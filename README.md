@@ -9,6 +9,8 @@ A comprehensive documentation site built with MkDocs Material, covering:
 - Empire of the Sun
 - Video Games
 - Reading
+- **Projects**
+  - LLM Proxy - A lightweight Go-based reverse proxy for multiple LLM providers
 
 ## About
 
