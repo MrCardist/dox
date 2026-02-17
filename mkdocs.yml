@@ -60,9 +60,11 @@ nav:
     - Overview: video-games/index.md
   - Reading:
     - Overview: reading/index.md
-  - LLM Proxy:
-    - Overview: llm-proxy/index.md
-    - Quick Start: llm-proxy/quick-start.md
-    - API Reference: llm-proxy/api-reference.md
-    - Configuration: llm-proxy/configuration.md
-    - Development: llm-proxy/development.md
+  - Projects:
+    - Overview: projects/index.md
+    - LLM Proxy:
+      - Overview: projects/llm-proxy/index.md
+      - Quick Start: projects/llm-proxy/quick-start.md
+      - API Reference: projects/llm-proxy/api-reference.md
+      - Configuration: projects/llm-proxy/configuration.md
+      - Development: projects/llm-proxy/development.md
